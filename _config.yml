@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: KAIST AI819 Blog Post # the website title (if blank, full name will be used instead)
+title: AI810 Blog Post (20245589) # the website title (if blank, full name will be used instead)
 first_name: Suhyeon
 middle_name: 
 last_name: Lee
 email: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Submission for the KAIST AI819 (Special Topics in Artificial Intelligence <Geometric Deep Learning>) course assignment: blog post.
+  Submission for the KAIST AI810 (Special Topics in Artificial Intelligence <Geometric Deep Learning>) course assignment: blog post.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
